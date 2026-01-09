@@ -115,4 +115,5 @@ This project demonstrates that machine learning techniques such as Logistic Regr
 
 ## 11. Author
 **BTech CSE – 2nd Semester**  
-Project on Machine Learning in Healthcare
+Project on AI
+in Healthcare
